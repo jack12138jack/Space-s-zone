@@ -285,3 +285,10 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = ""
+  google_tag_manager = ""
