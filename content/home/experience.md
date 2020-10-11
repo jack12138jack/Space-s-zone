@@ -33,12 +33,12 @@ date_format = "Jan 2006"
 #  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Collection"
+#  company = ""
+#  company_url = ""
+#  location = ""
+#  date_start = ""
+#  date_end = ""
+  description = """some of us get dipped in flat , some in satin, some in gloss. But every once in a while you find someone who's iridescent. And when you do, nothing ever compare."""
 
 +++
