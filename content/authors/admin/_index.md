@@ -27,9 +27,13 @@ interests:
 
 education:
   courses:
+  - course: Bachelor in Information and Computing Science
+    institution: Sichuan Agricultural University
+    year: 2016-2020
+  courses:
   - course: Master in Artificial Intelligence
     institution: Sichuan University
-    year: 2020
+    year: 2020-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
